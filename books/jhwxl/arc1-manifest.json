@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-10",
+  "status": "trial-awaiting-author",
+  "count_method": "CJK U+3400-U+4DBF and U+4E00-U+9FFF, excluding first heading line; prose only",
+  "new_body_han": 24408,
+  "all_body_han": 30993,
+  "arc_ch3_to_15_body_han": 27283,
+  "chapters": [
+    {
+      "chapter": 1,
+      "path": "chapters/0001/draft-v4.md",
+      "body_han": 1801,
+      "sha256": "a8ce154d0788afe52ee06ca83894265b3c2acb91ac5af30b408cc6271debb9c9"
+    },
+    {
+      "chapter": 2,
+      "path": "chapters/0002/draft-v5.md",
+      "body_han": 1909,
+      "sha256": "4b453113319fb7dec2decb277c631dc8b743702d4eb88072b5b5458952ba5583"
+    },
+    {
+      "chapter": 3,
+      "path": "chapters/0003/draft-v5.md",
+      "body_han": 2875,
+      "sha256": "b4f87504f7c77357e2144788d62940db590e6a4a51363c550f5b99f36d0c1b22"
+    },
+    {
+      "chapter": 4,
+      "path": "chapters/0004/draft-v1.md",
+      "body_han": 2084,
+      "sha256": "f3281a40a40025df12523df157daee2433edfe2e8ce711d5516f33fef065be3b"
+    },
+    {
+      "chapter": 5,
+      "path": "chapters/0005/draft-v1.md",
+      "body_han": 1957,
+      "sha256": "8095c736af99239e41dc4822629fe2284a9ac68c65faff59c7bf3a2618721612"
+    },
+    {
+      "chapter": 6,
+      "path": "chapters/0006/draft-v2.md",
+      "body_han": 2124,
+      "sha256": "92e00da07134dadb68cd1a1df606e96c1a064f0be3cc35b2d20081e4e0d6aaac"
+    },
+    {
+      "chapter": 7,
+      "path": "chapters/0007/draft-v1.md",
+      "body_han": 2082,
+      "sha256": "466be75e96df8a154f5169e39ee9eddd6c18a05f049a1ba3ee2eda3d05be8d06"
+    },
+    {
+      "chapter": 8,
+      "path": "chapters/0008/draft-v2.md",
+      "body_han": 1756,
+      "sha256": "87afd51d219ca835b4ea8345f32b8d086cfc804eb4faf654b814f65ffef07089"
+    },
+    {
+      "chapter": 9,
+      "path": "chapters/0009/draft-v1.md",
+      "body_han": 1836,
+      "sha256": "a8fe00a4024bae8dc85ea798327dfbfe633beb77ff7b72290728509a3fe8daf1"
+    },
+    {
+      "chapter": 10,
+      "path": "chapters/0010/draft-v1.md",
+      "body_han": 1903,
+      "sha256": "fcf818cc6338051a33b037a3b49d0e0239aa1132cb5fca8940e8da8222b7a2a7"
+    },
+    {
+      "chapter": 11,
+      "path": "chapters/0011/draft-v2.md",
+      "body_han": 1974,
+      "sha256": "24a0297035bb16714a379506df02ac68825b28d874fda50afa410047feb340e4"
+    },
+    {
+      "chapter": 12,
+      "path": "chapters/0012/draft-v1.md",
+      "body_han": 1869,
+      "sha256": "2d8b36cc66ebc5d2f69513e2cff2086687f0aeca9926d6846c97d00e2a66660e"
+    },
+    {
+      "chapter": 13,
+      "path": "chapters/0013/draft-v2.md",
+      "body_han": 2186,
+      "sha256": "5883484d84fcfb7069f87339a86686f3c10119879616a74b7d78341a49e8408a"
+    },
+    {
+      "chapter": 14,
+      "path": "chapters/0014/draft-v1.md",
+      "body_han": 2231,
+      "sha256": "edc9f9080aac1e3b6b9bda4f342320f806fd00393e7f07f895c3fdc0d37c0911"
+    },
+    {
+      "chapter": 15,
+      "path": "chapters/0015/draft-v1.md",
+      "body_han": 2406,
+      "sha256": "dd80cb1b27180c459455652f7e7475b88ff09b99b2daa569bcb35193152dff85"
+    }
+  ]
+}
